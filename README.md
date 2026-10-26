@@ -560,6 +560,7 @@ A growing set of community-developed and maintained servers demonstrates various
 - **[mcp-client](https://github.com/rakesh-eltropy/mcp-client)** MCP REST API and CLI client for interacting with MCP servers, supports OpenAI, Claude, Gemini, Ollama etc.
 - **[MCP-Bridge](https://github.com/SecretiveShell/MCP-Bridge)** 🐍 an openAI middleware proxy to use mcp in any existing openAI compatible client
 - **[MCP-Chatbot](https://github.com/3choff/mcp-chatbot)** A simple yet powerful ⭐ CLI chatbot that integrates tool servers with any OpenAI-compatible LLM API.
+- **[Sahkarmi](https://github.com/ganguydhrubo/sahakarmi)** Open-source desktop team workspace where AI coworkers run locally with human approval checkpoints for terminal, filesystem, and browser MCP tools
 - **[Zed](https://github.com/zed-industries/zed)** multiplayer code editor from the creators of atom
 - **[genkit](https://github.com/firebase/genkit)** agent and data transformation framework
 - **[Continue](https://github.com/continuedev/continue)** vscode auto complete and chat tool (full feature support)
